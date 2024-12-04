@@ -9,36 +9,23 @@
    
 
 2. Design charts to present some important data:
-   - **Sheet 1**: Revenue per State
-     
-       ![image](![image](https://github.com/user-attachments/assets/dc4aceaa-3107-4c49-91d1-561d0fd568af)
-)
-        
-   - **Sheet 2**: Month-Wise Revenue
-     
-       ![image](![image](https://github.com/user-attachments/assets/12b1514d-c6b1-4569-84b2-1092a19c439a))
+   - Revenue per State
+         
+   - Month-Wise Revenue
 
-   - **Sheet 3**: Age-Wise Sales Analysis
+   - Age-Wise Sales Analysis
+
+   - Quantity - Discount Correlation
+
+   - Region-Wise Revenue Share (%)
      
-       ![image](![image](https://github.com/user-attachments/assets/44ce5a83-ab43-47be-b1c4-8948fb18cad1))
+   - Gender-Wise Sales Analysis
 
-   - **Sheet 4**: Quantity - Discount Correlation
-     
-       ![image](![image](https://github.com/user-attachments/assets/3664dfd0-b196-428e-a3f4-cbc3f35ea2e4))
-
-   - **Sheet 5**: Region-Wise Revenue Share (%)
-
-       ![image](![image](https://github.com/user-attachments/assets/7e48935d-5597-4a8b-a0c5-533b1aad65e0))
-     
-   - **Sheet 6**: Gender-Wise Sales Analysis
-
-       ![image](![image](https://github.com/user-attachments/assets/eb24cfbc-280e-41dc-9c08-313136aea03f))
 3. Design a Dashboard
+
+
+
    
-    ![image](![image](https://github.com/user-attachments/assets/2cb00c8f-9393-482d-99da-af1e2b4a549d)
-)
-
-
 # Covid Data Visualization
 
 [Click to view the dashboard](https://public.tableau.com/app/profile/trung.dang.viet/viz/Covid_Tableau_17251785773840/Dashboard1?publish=yes)
