@@ -11,7 +11,8 @@
 2. Design charts to present some important data:
    - **Sheet 1**: Revenue per State
      
-       ![image](![image](https://github.com/user-attachments/assets/9b5baf85-eb88-445e-92d2-e391b12b3a5a))
+       ![image](![image](https://github.com/user-attachments/assets/dc4aceaa-3107-4c49-91d1-561d0fd568af)
+)
         
    - **Sheet 2**: Month-Wise Revenue
      
